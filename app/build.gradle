@@ -26,4 +26,5 @@ dependencies {
     })
     testCompile 'junit:junit:4.12'
     compile files('libs/environment3.jar')
+    compile 'com.connectsdk:connect-sdk-android:1.6.0'
 }
