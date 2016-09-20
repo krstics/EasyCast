@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Easy Cast</string>
+    <string name="file_to_cast">File to cast.</string>
+    <string name="filename">FileName</string>
+    <string name="browser">Browser</string>
+</resources>
